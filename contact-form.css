@@ -210,3 +210,8 @@ a {
     position: relative;
     letter-spacing: 0.3px;
 }
+@media screen and (min-width: 980px) {
+  .contact-info {
+    padding-left: 110px;
+  }
+}
